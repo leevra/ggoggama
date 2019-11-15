@@ -2,7 +2,8 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: 목돈이<br>부담된다면
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+한번에 큰 돈이 드는 장례행사, 
+경제적인 금액으로 미리 준비하세요. 
