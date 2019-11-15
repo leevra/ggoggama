@@ -2,7 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 갑작스런 경조사에<br>당황해보았다면
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+갑자기 닥친 경조사에
+당황하지 않도록 미리 준비하세요.
